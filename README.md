@@ -20,6 +20,11 @@ wish.
 <<<<<<< HEAD
 =======
 * 08 - Hands-on with the variational quantum classifier
+<<<<<<< HEAD
+>>>>>>> main
+=======
+* 09 - The quantum Fourier transform (QFT)
+* 10 - The QFT and quantum phase estimation
 >>>>>>> main
 
 ## Resources
