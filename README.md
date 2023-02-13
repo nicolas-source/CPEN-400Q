@@ -25,6 +25,10 @@ wish.
 =======
 * 09 - The quantum Fourier transform (QFT)
 * 10 - The QFT and quantum phase estimation
+<<<<<<< HEAD
+>>>>>>> main
+=======
+* 11 - Quantum phase estimation; order finding
 >>>>>>> main
 
 ## Resources
