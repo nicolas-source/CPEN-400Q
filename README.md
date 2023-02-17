@@ -29,6 +29,10 @@ wish.
 >>>>>>> main
 =======
 * 11 - Quantum phase estimation; order finding
+<<<<<<< HEAD
+>>>>>>> main
+=======
+* 12 - Order finding and Shor's algorithm
 >>>>>>> main
 
 ## Resources
