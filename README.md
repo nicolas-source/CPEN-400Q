@@ -33,6 +33,10 @@ wish.
 >>>>>>> main
 =======
 * 12 - Order finding and Shor's algorithm
+<<<<<<< HEAD
+>>>>>>> main
+=======
+* 13 - Variational algorithms: gradients and the VQE 
 >>>>>>> main
 
 ## Resources
