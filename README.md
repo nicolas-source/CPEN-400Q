@@ -37,8 +37,14 @@ wish.
 >>>>>>> main
 =======
 * 13 - Variational algorithms: gradients and the VQE 
+<<<<<<< HEAD
 >>>>>>> main
 
+=======
+* 14 - The variational quantum eigensolver; introducing QAOA
+* 15 - Solving combinatorial optimization problems with QAOA (part 1)
+ 
+>>>>>>> main
 ## Resources
 
  - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
