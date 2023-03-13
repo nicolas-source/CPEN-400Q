@@ -44,7 +44,12 @@ wish.
 * 14 - The variational quantum eigensolver; introducing QAOA
 * 15 - Solving combinatorial optimization problems with QAOA (part 1)
 * 16 - Solving combinatorial optimization problems with QAOA (part 2)
+<<<<<<< HEAD
  
+>>>>>>> main
+=======
+* 17 - Mixed states, noise, and quantum channels
+
 >>>>>>> main
 ## Resources
 
