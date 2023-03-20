@@ -49,6 +49,7 @@ wish.
 >>>>>>> main
 =======
 * 17 - Mixed states, noise, and quantum channels
+* 19 - Noisy quantum systems; introducing the oracle 
 
 >>>>>>> main
 ## Resources
