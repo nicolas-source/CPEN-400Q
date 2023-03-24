@@ -50,6 +50,7 @@ wish.
 =======
 * 17 - Mixed states, noise, and quantum channels
 * 19 - Noisy quantum systems; introducing the oracle 
+* 20 - The oracle, query complexity, and Deutsch's algorithm
 
 >>>>>>> main
 ## Resources
